@@ -818,7 +818,7 @@
         "y": 288,
         "info": {
           "radius": 150,
-          "secondsToActivate": 8
+          "secondsToActivate": 10
         },
         "toActivate": {
           "x": 672,
@@ -831,7 +831,7 @@
         "y": -32,
         "info": {
           "radius": 150,
-          "secondsToActivate": 8
+          "secondsToActivate": 10
         },
         "toActivate": {
           "x": 672,
@@ -844,7 +844,7 @@
         "y": -288,
         "info": {
           "radius": 400,
-          "secondsToActivate": 8
+          "secondsToActivate": 10
         },
         "toActivate": {
           "x": 672,
