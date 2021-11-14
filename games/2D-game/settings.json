@@ -1,0 +1,8 @@
+{
+    "CONSTANTS": {
+        "DEBUG": true,
+        "SCREEN_W": 1200,
+        "SCREEN_H": 800,
+        "TILESIZE": 64
+    }
+}
