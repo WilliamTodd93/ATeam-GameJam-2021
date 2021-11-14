@@ -35,6 +35,7 @@ class NextLevelDoor{
     teleport(levelName, doorName) {
         GameManager.player.disabledMovement = true;
         GameManager.fadingToBlack = true;
+        GameManager.reloadSprites();
         loadJSON(levelName, (json) => {
             setTimeout(function() {
                 

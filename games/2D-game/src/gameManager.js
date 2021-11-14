@@ -134,4 +134,10 @@ class GameManager{
 
         }
     }
+
+    static reloadSprites(){
+        LayerManager.layers.environment.removeSprites();
+        LayerManager.layers.enemy.removeSprites();
+        LayerManager.layers.projectiles.removeSprites();
+    }
 }
