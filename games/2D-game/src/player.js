@@ -157,7 +157,7 @@ class Player{
                     // Get Velocity
                     // Add Fall Damage
                     if(this.sprite.velocity.y > 11.5)
-                    this.damage(this.sprite.velocity.y/2)
+                    this.damage(this.sprite.velocity.y/4)
                 }
                 this.isAirborne = false;
                 
